@@ -1,0 +1,24 @@
+{
+  "name": "partydistrib",
+  "version": "1.0.1",
+  "description": "Party manager and logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "XevaDev",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.42"
+  },
+  "types": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XevaDev/PartyDistrib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/XevaDev/PartyDistrib/issues"
+  },
+  "homepage": "https://github.com/XevaDev/PartyDistrib#readme"
+}
